@@ -1,0 +1,45 @@
+Name: Model
+Id: g=f9ce656f98eb3b9127c7f5afbf431605
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable3
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: RecipeName
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Pippo"
+- Name: RecipeEditMode
+  Id: g=db5b53b2c18aca5bc7c5a61264613ee9
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 1
+- Name: RecipeArchivedMode
+  Id: g=0a8823d0b12762f62544411aa87f4b98
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 2
+- Name: RecipeUsedMode
+  Id: g=807a6d5772ae3fe57b697ada482030f0
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 3
+- Name: RecipeSelectMode
+  Id: g=f6d88a7f3ac14fd5f9699818d503698d
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: RecipeApprovedMode
+  Id: g=573c77a95210c3e797141d13b2d50c7a
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 4

@@ -1,0 +1,61 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [46,2],
+    "Body": [
+     "","en-US",
+     "Password","Password",
+     "Login","Login",
+     "Old password","Old password",
+     "LoginChangePasswordFormUnsupportedOperation","Unsupported operation",
+     "New password","New password",
+     "Confirm password","Confirm password",
+     "Change password","Change password",
+     "Current User:","Current User:",
+     "Logout","Logout",
+     "Your password is expired. Please enter a new one","Your password is expired. Please enter a new one",
+     "LoginFormLoginSuccessful","Login successful",
+     "LoginFormPasswordExpired","Password expired",
+     "LoginFormAuthenticationFailed","Authentication failed",
+     "LoginChangePasswordFormWrongOldPassword","Wrong old password",
+     "LoginChangePasswordFormPasswordAlreadyUsed","Password already used",
+     "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently",
+     "LoginChangePasswordFormPasswordTooShort","Password too short",
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match",
+     "LoginChangePasswordFormUserNotFound","User not found",
+     "Save","Save",
+     "Delete","Delete",
+     "RecipeControllerDeleted","deleted",
+     "RecipesEditorNotFound","not found",
+     "RecipesEditorNotSet","is not set",
+     "Load","Load",
+     "RecipeControllerSaved","saved",
+     "RecipeControllerCreatedAndSaved","created and saved",
+     "Apply","Apply",
+     "RecipeControllerEmptyRecipeName","Recipe name is empty",
+     "RecipeControllerRecipe","Recipe",
+     "RecipeControllerRecipeApplied","Recipe applied",
+     "RecipeControllerRecipeLoaded","Recipe loaded",
+     "RecipesEditorRecipeSchemaNotFound","RecipeSchema variable not found",
+     "RecipesEditorRecipeSchemaNotSet","RecipeSchema not set",
+     "RecipesEditorRecipeNotFound","Recipe not found",
+     "RecipesEditorNotARecipe","is not a recipe",
+     "RecipesEditorStoreOfSchema","Store of schema",
+     "RecipesEditorStore","Store",
+     "RecipesEditorNotAStore","is not a store",
+     "RecipesEditorEditModelOfSchema","EditModel of schema",
+     "Create","Create",
+     "Approve","Approve",
+     "RecipeLoaded","Recipe loaded",
+     "Archive","Archive",
+     "RecipeApply","Recipe applied"
+    ]
+   }
